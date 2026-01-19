@@ -1,4 +1,4 @@
 # SALES-ANALYSIS
 Using Python (Pandas & Matplotlib)
 
-![Alt Text]("C:\Users\nishi\OneDrive\Pictures\Screenshots\Screenshot 2026-01-19 170115.png")
+![image alt](https://github.com/nishimehlakumar-beep/SALES-ANALYSIS/blob/de5934476aef0fbf1c999c0fcfec45cd7ddee0db/Screenshot%202026-01-19%20170115.png)
